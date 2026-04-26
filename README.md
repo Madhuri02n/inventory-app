@@ -123,5 +123,4 @@ Frontend runs on `http://localhost:3000`
 ## 👩‍💻 Author
 
 **Madhuri Nallabothula**  
-B.Tech CSE, JNTUH Hyderabad  
-[LinkedIn](#) | [GitHub](#)
+
